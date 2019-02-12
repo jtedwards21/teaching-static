@@ -73,6 +73,30 @@
 
 	h1 {
 		font-size: 2.5em;
+  }
+
+	.large-logo {
+	  font-weight: _font(weight-bold);
+		letter-spacing: _font(letter-spacing-alt);
+		border: 0;
+		text-transform: uppercase;
+		display: inline-block;
+		font-size: 2.5em;
+		height: inherit;
+		line-height: inherit;
+
+		strong {
+			@include vendor('transition', (
+				'background-color #{_duration(transition)} ease-in-out',
+				'color #{_duration(transition)} ease-in-out'
+			));
+			background-color: _palette(fg-bold);
+			color: _palette(bg);
+			display: inline-block;
+			line-height: 1.65em;
+			margin-right: 0.325em;
+			padding: 0 0.125em 0 (_font(letter-spacing-alt) + 0.125em);
+		}
 	}
 
 	h2 {
