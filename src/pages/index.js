@@ -4,12 +4,12 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import Banner from '../components/Banner'
 
-import pic01 from '../assets/images/pic01.jpg'
-import pic02 from '../assets/images/pic02.jpg'
-import pic03 from '../assets/images/pic03.jpg'
-import pic04 from '../assets/images/pic04.jpg'
-import pic05 from '../assets/images/pic05.jpg'
-import pic06 from '../assets/images/pic06.jpg'
+import pic01 from '../assets/images/pic21.jpg'
+import pic02 from '../assets/images/pic22.jpg'
+import pic03 from '../assets/images/pic23.jpg'
+import pic04 from '../assets/images/pic24.jpg'
+import pic05 from '../assets/images/pic25.jpg'
+import pic06 from '../assets/images/pic26.jpg'
 
 class HomeIndex extends React.Component {
     render() {
@@ -34,7 +34,7 @@ class HomeIndex extends React.Component {
                                 <h3>About Me</h3>
                                 <p>More about myself</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/about" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
@@ -48,14 +48,14 @@ class HomeIndex extends React.Component {
                                 <h3>Topic Materials</h3>
                                 <p>Topical Materials for Independent Study</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/materials" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
                                 <h3>Magazines</h3>
                                 <p>Magazine Download Links</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/magazines" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
