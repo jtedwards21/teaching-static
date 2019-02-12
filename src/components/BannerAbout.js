@@ -7,7 +7,7 @@ const BannerLanding = (props) => (
                 <h1>About Me</h1>
             </header>
             <div className="content">
-                <p>T
+                <p>US-Educated linguist with 7 years publishing experience,
                 <br/>currently living in China and studying TEFL</p>
             </div>
         </div>
