@@ -31,36 +31,36 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Aliquam</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>About Me</h3>
+                                <p>More about myself</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>Tempus</h3>
-                                <p>feugiat amet tempus</p>
+                                <h3>Teaching</h3>
+                                <p>On- and Offline Classes</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Magna</h3>
-                                <p>Lorem etiam nullam</p>
+                                <h3>Topic Materials</h3>
+                                <p>Topical Materials for Independent Study</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Ipsum</h3>
-                                <p>Nisl sed aliquam</p>
+                                <h3>Magazines</h3>
+                                <p>Magazine Download Links</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
-                                <h3>Consequat</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Chat Group</h3>
+                                <p>Join English Chat Groups</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
