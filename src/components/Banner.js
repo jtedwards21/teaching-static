@@ -7,8 +7,8 @@ const Banner = (props) => (
                 <span className="large-logo"><strong>SPEAKUP</strong> <span>English Teaching</span></span>
             </header>
             <div className="content">
-                <p>US-Educated linguist with 7 years publishing experience,
-                <br/>currently living in China and studying TEFL</p>
+                <p>In-Classroom and Remote Language Education,
+                <br/>with a range of courses and topics</p>
                 <ul className="actions">
                     <li><a href="#one" className="button next scrolly">More</a></li>
                 </ul>

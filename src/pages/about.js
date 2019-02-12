@@ -23,7 +23,7 @@ const Landing = (props) => (
                     <header className="major">
                         <h2>Summary</h2>
                     </header>
-                    <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+                    <p>I</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
@@ -36,10 +36,11 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>Education</h3>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-                            <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
-                            </ul>
+                            <p>I graduated from the University of North Carolina at Greensboro in 2011 and received an IGS degree with a focus in Global Affairs and Development. Thise is a varied degree with course content covering politics, economic development and social policy.
+                            <br/>
+                            During this time I had the opportunity to study Applied Languages in Lyon, France, where I took the DELF exam for French.
+                            <br/>
+                            After graduation, I completed a TEFL certification and the TKT certificate for young learners offered by Cambridge University.</p>
                         </div>
                     </div>
                 </section>
@@ -50,12 +51,9 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Working Life</h3>
+                                <h3>Professional Life</h3>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-                            <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
-                            </ul>
+                            <p></p>
                         </div>
                     </div>
                 </section>
