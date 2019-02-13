@@ -19,8 +19,6 @@ const Generic = (props) => (
                     </header>
                     <span className="image main"><img src={pic11} alt="" /></span>
                     <p>These magazines and other materials can be used to help you learn better English.</p>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.</p>
-                    <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.</p>
                     <h3>Textbooks</h3>
                       <ul className="alt">
                         <li><a href="https://pan.baidu.com/s/1sNeR8FiCXFdv-IQJwBOsZA"> [Instant Discussions] 密码:vgfp</a></li>
@@ -37,7 +35,42 @@ const Generic = (props) => (
                         <li><a href="https://pan.baidu.com/s/1szuYbHsgXRH5b73W8Hgqyg">Vocabulary in Use: Pre-Intermediate  密码:sht3</a></li>
                         <li><a href="https://pan.baidu.com/s/1kv32ln5UCodCqd8Wxja6iQ">Vocabulary in Use: Upp-Adv  密码:pzpb</a></li>
                       </ul>
-                    <h3></h3>
+                    <h3>Professional English in Use</h3>
+                      <ul className="alt">
+                        <li><a href="https://pan.baidu.com/s/16Zp5AWFtImicn6NOELlMIA">Finance :o1wd</a></li>
+                        <li><a href="https://pan.baidu.com/s/1boL3c9LakfYr48lVc_q95Q">ICT :nkzh</a></li>
+                        <li><a href="https://pan.baidu.com/s/1pqSmHz7OouTI2b8bkvvITw">Law :gzyk</a></li>
+                      </ul>
+                    <h3>Cutting Edge Starter</h3>
+                      <ul className="alt">
+                        <li><a href="#">Student Book</a></li>
+                        <li><a href="https://pan.baidu.com/s/1A51IYF-5Zisg-obHpL2Hhw">Workbook :fbfi</a></li>
+                        <li><a href="https://pan.baidu.com/s/1l7Uy53m1ov_u1AAwwU0w9w">Activity Book :7jwz</a></li>
+                      </ul>
+                    <h3>Cutting Edge Elementary</h3>
+                      <ul className="alt">
+                        <li><a href="https://pan.baidu.com/s/1dL_IkdYq21OYClkm2uJ5_A">Student Book :msbi</a></li>
+                        <li><a href="https://pan.baidu.com/s/1DDs6EqHzphvjFvpS3Ww6NQ">Workbook :zufx</a></li>
+                        <li><a href="https://pan.baidu.com/s/1jIGkQUhtWLDrqxF6Atl9kQ">Activity Book :g21q</a></li>
+                      </ul>
+                    <h3>Cutting Edge Pre-Intermediate</h3>
+                      <ul className="alt">
+                        <li><a href="https://pan.baidu.com/s/1KBeywhWFMIIuMCw4M0_Vyg">Student Book :0r0l</a></li>
+                        <li><a href="https://pan.baidu.com/s/1agrAGRrGWk9D7kolXtt_fA">Workbook :4mg4</a></li>
+                        <li><a href="https://pan.baidu.com/s/1RumjQrDoOu4B4YrHhaFA0Q">Activity Book :gayo</a></li>
+                      </ul>
+                    <h3>Cutting Edge Intermediate</h3>
+                      <ul className="alt">
+                        <li><a href="https://pan.baidu.com/s/1nK3u_DRJqNvx81yoO8FPhw">Student Book :h65g</a></li>
+                        <li><a href="https://pan.baidu.com/s/1ldwrUFuxZqsGSakFEr-nxw">Workbook :ougb</a></li>
+                        <li><a href="https://pan.baidu.com/s/1wZew3Xcq44QzTqZBGjbHcg">Activity Book :jfl9</a></li>
+                      </ul>
+                    <h3>Cutting Edge Upper-Intermediate</h3>
+                      <ul className="alt">
+                        <li><a href="https://pan.baidu.com/s/1atHr46oGBHyqfr2A8lcEoQ">Student Book :h65g</a></li>
+                        <li><a href="https://pan.baidu.com/s/1su16Xlyg7n9pjp6-sUCoSA">Workbook :4bju</a></li>
+                        <li><a href="https://pan.baidu.com/s/19EcrnnHdI16oh9Db7Mh2NA">Activity Book :4cy3</a></li>
+                      </ul>
                 </div>
             </section>
         </div>
