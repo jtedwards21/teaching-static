@@ -19,7 +19,6 @@ const Landing = (props) => (
         <div id="main">
             <section id="one">
                 <div className="inner">
-                    <p>Contact</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
@@ -45,10 +44,9 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Online Classes</h3>
+                                <h3>Costs for Demo Classes</h3>
                             </header>
-                            <p>For certain learners, I am available to give online classes. I'm interested in goal-orientated students that have a long-term commitment to learning and have clear goals which they'd like to acheive.
-                            <br/>I'd be excited about helping you acheive these goals.</p>
+                            <p>For a half-hour demo class I charge a fee of ten U.S. dollars. I'm interested in accepting students who are reasonably serious about learning and this helps me acheive this goal.</p>
                         </div>
                     </div>
                 </section>
