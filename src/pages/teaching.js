@@ -20,7 +20,6 @@ const Landing = (props) => (
         <div id="main">
             <section id="one">
                 <div className="inner">
-                    <p>I offer a variety of different classes suitable to many different learners.</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
@@ -33,6 +32,7 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>Class Types</h3>
                             </header>
+                            <p>In general learners are split into primary, secondary and adult learners. Each student is provided with a course-map and learning materials that are appropriate to their age-group and English level.</p>
 
                         </div>
                     </div>
@@ -44,10 +44,11 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Online Classes</h3>
+                                <h3>Course Maps</h3>
                             </header>
-                            <p>For certain learners, I am available to give online classes. I'm interested in goal-orientated students that have a long-term commitment to learning and have clear goals which they'd like to acheive.
-                            <br/>I'd be excited about helping you acheive these goals.</p>
+                            <p>Courses often move at a brisk pace and it's my earnest hope that learners are dedicated and work hard to keep up with the pace of the course.</p>
+                            <p>Below I've provided an example course map so to give an idea of general pace and course content.</p>
+                            <p></p>
                         </div>
                     </div>
                 </section>
