@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import BannerTeaching from '../components/BannerTeaching'
@@ -25,9 +24,9 @@ const Landing = (props) => (
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <Link to="/generic" className="image">
+                    <div className="image">
                         <img src={pic08} alt="" />
-                    </Link>
+                    </div>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
@@ -39,9 +38,9 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <Link to="/generic" className="image">
+                    <div className="image">
                         <img src={pic09} alt="" />
-                    </Link>
+                    </div>
                     <div className="content">
                         <div className="inner">
                             <header className="major">

@@ -1,12 +1,11 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import BannerDemoClass from '../components/BannerDemoClass'
 
-import pic08 from '../assets/images/pic08.jpg'
-import pic09 from '../assets/images/pic09.jpg'
-import pic10 from '../assets/images/pic10.jpg'
+import pic27 from '../assets/images/pic27.jpg'
+import pic28 from '../assets/images/pic28.jpg'
+import pic29 from '../assets/images/pic29.jpg'
 
 const Landing = (props) => (
     <Layout>
@@ -25,9 +24,9 @@ const Landing = (props) => (
             </section>
             <section id="two" className="spotlights">
                 <section>
-                    <Link to="/generic" className="image">
-                        <img src={pic08} alt="" />
-                    </Link>
+                    <div className="image">
+                        <img src={pic27} alt="" />
+                    </div>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
@@ -40,9 +39,9 @@ const Landing = (props) => (
                     </div>
                 </section>
                 <section>
-                    <Link to="/generic" className="image">
-                        <img src={pic09} alt="" />
-                    </Link>
+                    <div className="image">
+                        <img src={pic28} alt="" />
+                    </div>
                     <div className="content">
                         <div className="inner">
                             <header className="major">
