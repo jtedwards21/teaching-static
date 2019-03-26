@@ -8,7 +8,7 @@ const BannerLanding = (props) => (
             </header>
             <div className="content">
                 <p>US-Educated linguist with years of experience in education,
-                <br/>currently living in China and studying TEFL</p>
+                <br/>currently located in Eastern China</p>
             </div>
         </div>
     </section>

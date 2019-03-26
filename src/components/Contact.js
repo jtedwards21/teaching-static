@@ -8,9 +8,14 @@ const Contact = (props) => (
                 <div className="contact-method">
                     <span className="icon alt fa-envelope"></span>
                     <h3>Email</h3>
-                    <a href="#">joshua@speakupchat.com</a>
+                    <span>joshua@speakupchat.com</span>
                 </div>
-                </section>
+                <div className="contact-method">
+                    <span className="icon alt fa-envelope"></span>
+                    <h3>WeChat</h3>
+                    <a href="https://www.wechat.com/en/">jtedwards21</a>
+                </div>
+              </section>
             </section>
             <section className="split">
                 <section>
@@ -18,7 +23,7 @@ const Contact = (props) => (
                         <span className="icon alt fa-home"></span>
                         <h3>Address</h3>
                         <span>Kangqiao Gardens<br />
-                        Jiaxing, ZJ 314000<br />
+                        Jiaxing, Zhejiang 314000<br />
                         China</span>
                     </div>
                 </section>
