@@ -17,8 +17,7 @@ const Landing = (props) => (
 
         <div id="main">
             <section id="one">
-                <div className="inner">
-                    <p>Language teaching and learning has been a long-term pursuit that has engaged me for several years.</p>
+                <div className="breaker">
                 </div>
             </section>
             <section id="two" className="spotlights">

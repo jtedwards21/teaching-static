@@ -18,7 +18,7 @@ const Landing = (props) => (
 
         <div id="main">
             <section id="one">
-                <div className="inner">
+                <div className="breaker">
                 </div>
             </section>
             <section id="two" className="spotlights">

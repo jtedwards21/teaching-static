@@ -39,6 +39,18 @@
 				width: calc(100% - 3em);
 			}
 		}
+
+		> .breaker {
+			@include padding(.5em, 0);
+			margin: 0 auto;
+			max-width: _size(inner);
+			width: calc(100% - 6em);
+
+			@include breakpoint(small) {
+				@include padding(3em, 0);
+				width: calc(100% - 3em);
+			}
+		}
 	}
 
 // Base.
