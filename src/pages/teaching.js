@@ -20,7 +20,7 @@ const Landing = (props) => (
         <div id="main">
             <section id="one">
                 <div className="inner">
-                    <p>Language teaching and learning has been a long-term pursuit that has engaged me for several years.</p>
+                    <p>I offer a variety of different classes suitable to many different learners.</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
@@ -31,10 +31,9 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Teaching Experience</h3>
+                                <h3>Class Types</h3>
                             </header>
-                            <p>I've taught in a number of settings, both online and offline, in multi-cultural centers for development of refugees, as well as in schools geared towards business professionals.
-                            <br/>I've taught to a number of age groups, and often give preparatory classes for students interested in attending international high-schools and universities.</p>
+
                         </div>
                     </div>
                 </section>

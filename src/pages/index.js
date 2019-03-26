@@ -55,7 +55,7 @@ class HomeIndex extends React.Component {
                                 <h3>Demo Class</h3>
                                 <p>Half-hour online demo classes</p>
                             </header>
-                            <Link to="/training" className="link primary"></Link>
+                            <Link to="/democlass" className="link primary"></Link>
                         </article>
                     </section>
                 </div>

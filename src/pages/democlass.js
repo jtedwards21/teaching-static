@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
-import BannerTeaching from '../components/BannerTeaching'
+import BannerDemoClass from '../components/BannerDemoClass'
 
 import pic08 from '../assets/images/pic08.jpg'
 import pic09 from '../assets/images/pic09.jpg'
@@ -15,12 +15,12 @@ const Landing = (props) => (
             <meta name="description" content="Landing Page" />
         </Helmet>
 
-        <BannerTeaching />
+        <BannerDemoClass />
 
         <div id="main">
             <section id="one">
                 <div className="inner">
-                    <p>Language teaching and learning has been a long-term pursuit that has engaged me for several years.</p>
+                    <p>Contact</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
@@ -31,10 +31,11 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Teaching Experience</h3>
+                                <h3>Times</h3>
                             </header>
-                            <p>I've taught in a number of settings, both online and offline, in multi-cultural centers for development of refugees, as well as in schools geared towards business professionals.
-                            <br/>I've taught to a number of age groups, and often give preparatory classes for students interested in attending international high-schools and universities.</p>
+                            <p>It's most convenient for me to schedule demo classes during my day-time hours between Monday and Friday. Of course this may not be the best time for many students who have prior work or school obligations.</p>
+                            <p>However as demo classes are rather short it's often possible for me to schedule around previous obligations.
+                            </p>
                         </div>
                     </div>
                 </section>

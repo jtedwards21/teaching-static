@@ -21,9 +21,9 @@ const Landing = (props) => (
             <section id="one">
                 <div className="inner">
                     <header className="major">
-                        <h2>Summary</h2>
+                        <h2>About Me</h2>
                     </header>
-                    <p>I</p>
+                    <p>Language learning and education has been a long-term pursuit that has engaged me for several years.</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
@@ -53,7 +53,8 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>Professional Life</h3>
                             </header>
-                            <p></p>
+                            <p>I've taught in a number of settings, both online and offline, in multi-cultural centers for refugee resettlement, as well as in schools geared towards business professionals.
+                            <br/>I've taught to a number of age groups, and often give preparatory classes for students interested in attending international high-schools and universities.</p>
                         </div>
                     </div>
                 </section>
