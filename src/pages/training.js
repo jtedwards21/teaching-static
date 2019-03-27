@@ -45,8 +45,7 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>Time and Location</h3>
                             </header>
-                            <p>Training is done on-site using </p>
-                            <p>Communicative Teaching Methods</p>
+                            <p>Training is done on-site with school facilities, and at </p>
                         </div>
                     </div>
                 </section>
