@@ -47,7 +47,7 @@ const Landing = (props) => (
                             </header>
                             <p>Courses often move at a brisk pace and it's my earnest hope that learners are dedicated and work hard to keep up with the pace of the course.</p>
                             <p>Below I've provided an example course map so to give an idea of general pace and course content.</p>
-                            <p></p>
+                            <a href="https://github.com/jtedwards21/teaching-static/raw/master/src/assets/files/sample_course_map.pdf">Sample Course Map</a>
                         </div>
                     </div>
                 </section>
