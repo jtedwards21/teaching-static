@@ -3,6 +3,7 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import BannerTeaching from '../components/BannerTeaching'
 
+
 import pic25 from '../assets/images/pic25.jpg'
 import pic26 from '../assets/images/pic26.jpg'
 import pic27 from '../assets/images/pic27.jpg'
@@ -10,7 +11,7 @@ import pic27 from '../assets/images/pic27.jpg'
 const Landing = (props) => (
     <Layout>
         <Helmet>
-            <title>SPEAKUP - English Teaching</title>
+            <title>SPEAKUP - Language Education</title>
             <meta name="description" content="Landing Page" />
         </Helmet>
 

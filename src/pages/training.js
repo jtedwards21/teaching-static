@@ -1,19 +1,19 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
-import BannerTeaching from '../components/BannerTeaching'
+import BannerTraining from '../components/BannerTraining'
 
-import pic28 from '../assets/images/pic28.jpg'
-import pic29 from '../assets/images/pic29.jpg'
+import pic01 from '../assets/images/pic01.jpg'
+import pic02 from '../assets/images/pic02.jpg'
 
 const Landing = (props) => (
     <Layout>
         <Helmet>
-            <title>SPEAKUP - English Teaching</title>
+            <title>SPEAKUP - Teacher Training</title>
             <meta name="description" content="Landing Page" />
         </Helmet>
 
-        <BannerTeaching />
+        <BannerTraining />
 
         <div id="main">
             <section id="one">
@@ -23,7 +23,7 @@ const Landing = (props) => (
             <section id="two" className="spotlights">
                 <section>
                     <div className="image">
-                        <img src={pic28} alt="" />
+                        <img src={pic01} alt="" />
                     </div>
                     <div className="content">
                         <div className="inner">
@@ -37,7 +37,7 @@ const Landing = (props) => (
                 </section>
                 <section>
                     <div className="image">
-                        <img src={pic29} alt="" />
+                        <img src={pic02} alt="" />
                     </div>
                     <div className="content">
                         <div className="inner">

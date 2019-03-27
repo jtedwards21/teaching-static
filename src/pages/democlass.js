@@ -10,7 +10,7 @@ import pic29 from '../assets/images/pic29.jpg'
 const Landing = (props) => (
     <Layout>
         <Helmet>
-            <title>SPEAKUP - English Teaching</title>
+            <title>SPEAKUP - Demo Classes</title>
             <meta name="description" content="Landing Page" />
         </Helmet>
 
