@@ -28,10 +28,11 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Teaching Experience</h3>
+                                <h3>Training Goals</h3>
                             </header>
-                            <p>I've taught in a number of settings, both online and offline, in multi-cultural centers for development of refugees, as well as in schools geared towards business professionals.
-                            <br/>I've taught to a number of age groups, and often give preparatory classes for students interested in attending international high-schools and universities.</p>
+                            <p>The intention of teacher training is to bring operations for language education centers to the next level.</p>
+                            <p>This training focuses on preparing local or non-native teachers to teach using communicative methods - teaching methods that are approved of and used internationally.</p>
+                            <p>In addition to offering support for methodology, we also help to prepare language centers to improve their course offerings with times that facilitate high retention rates.</p>
                         </div>
                     </div>
                 </section>
@@ -42,10 +43,10 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Online Classes</h3>
+                                <h3>Time and Location</h3>
                             </header>
-                            <p>For certain learners, I am available to give online classes. I'm interested in goal-orientated students that have a long-term commitment to learning and have clear goals which they'd like to acheive.
-                            <br/>I'd be excited about helping you acheive these goals.</p>
+                            <p>Training is done on-site using </p>
+                            <p>Communicative Teaching Methods</p>
                         </div>
                     </div>
                 </section>
