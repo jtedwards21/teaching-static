@@ -1,7 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
-import BannerDemoClass from '../components/BannerDemoClass'
+import BannerClasses from '../components/BannerClasses'
 
 import pic27 from '../assets/images/pic27.jpg'
 import pic28 from '../assets/images/pic28.jpg'
@@ -10,11 +10,11 @@ import pic29 from '../assets/images/pic29.jpg'
 const Landing = (props) => (
     <Layout>
         <Helmet>
-            <title>SPEAKUP - Demo Classes</title>
+            <title>SPEAKUP - Classes</title>
             <meta name="description" content="Landing Page" />
         </Helmet>
 
-        <BannerDemoClass />
+        <BannerClasses />
 
         <div id="main">
             <section id="one">
@@ -31,8 +31,8 @@ const Landing = (props) => (
                             <header className="major">
                                 <h3>Times</h3>
                             </header>
-                            <p>It's most convenient for me to schedule demo classes during my day-time hours between Monday and Friday. Of course this may not be the best time for many students who have prior work or school obligations.</p>
-                            <p>However as demo classes are rather short it's often possible for me to schedule around previous obligations.
+                            <p>It's most convenient for me to schedule an oral test during my day-time hours between Monday and Friday. Of course this may not be the best time for many students who have prior work or school obligations.</p>
+                            <p>However as most oral tests are short it's usually possible for me to schedule around previous obligations. Just send me a message and we can find a time that works for everyone involved.
                             </p>
                         </div>
                     </div>
@@ -44,9 +44,9 @@ const Landing = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Costs for Demo Classes</h3>
+                                <h3>Oral English Test Content</h3>
                             </header>
-                            <p>For a half-hour demo class I charge a fee of ten U.S. dollars. I'm interested in accepting students who are reasonably serious about learning and this helps me acheive this goal.</p>
+                            <p>The goal of the oral test is to determine the level of the interested student. After the oral test I'm able to suggest a study plan and communicate about learning goals.</p>
                         </div>
                     </div>
                 </section>

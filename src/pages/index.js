@@ -52,10 +52,10 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Demo Class</h3>
-                                <p>Half-hour online demo classes</p>
+                                <h3>Classes</h3>
+                                <p>Scheduling Online Classes</p>
                             </header>
-                            <Link to="/democlass" className="link primary"></Link>
+                            <Link to="/classes" className="link primary"></Link>
                         </article>
                     </section>
                 </div>
