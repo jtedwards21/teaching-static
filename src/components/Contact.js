@@ -7,8 +7,8 @@ const Contact = (props) => (
               <section>
                 <div className="contact-method">
                     <span className="icon alt fa-envelope"></span>
-                    <h3>Email</h3>
-                    <span>joshua@speakupchat.com</span>
+                    <h3>Zhihu</h3>
+                      <a href="https://www.zhihu.com/people/joshua-edwards">joshua edwards</a>
                 </div>
 
               </section>
@@ -16,7 +16,7 @@ const Contact = (props) => (
             <section className="split">
                 <section>
                 <div className="contact-method">
-                    <span className="icon alt fa-envelope"></span>
+                    <span className="icon alt fa-wechat"></span>
                     <h3>WeChat</h3>
                     <a href="https://www.wechat.com/en/">jtedwards21</a>
                 </div>
